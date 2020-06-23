@@ -1,4 +1,4 @@
-baseURL = "solidusoft.com"
+baseURL = "http://www.solidusoft.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
